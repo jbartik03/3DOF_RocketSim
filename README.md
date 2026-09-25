@@ -151,6 +151,7 @@ Bartik, J (2026) Mathematical Models for Coupling Rocket Trajectory and Passive 
 Jonathan A. Bartik
 
 B.S. Applied Mathematics, Computing Minor
+
 University of North Florida
 
 Created: 2026
