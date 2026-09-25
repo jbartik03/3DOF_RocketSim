@@ -142,7 +142,7 @@ This simulator represents an intermediate-fidelity rocket dynamics model develop
 
 If referencing this work, please cite:
 
-Bartik, J.A., "Mathematical Models for Coupling Rocket Trajectory and Passive Stability," University of North Florida, 2026.
+Bartik, J (2026) Mathematical Models for Coupling Rocket Trajectory and Passive Stability, *AJUR* Vol 23, Issue 3, 182. https://doi.org/10.33697/ajur.2026.182
 
 ---
 
